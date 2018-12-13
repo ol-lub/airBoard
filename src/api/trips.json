@@ -1,0 +1,184 @@
+[
+    {
+        "key": 1,
+        "number": "475",
+        "timeOfDeparture":"00:05",
+        "flight": "Орск",
+        "terminal": "D",
+        "airline": "Абакан Эир",
+        "status": "Прибыл"
+    },
+    {
+        "key": 2,
+        "number": "4777",
+        "timeOfDeparture":"00:15",
+        "flight": "Архангельск",
+        "terminal": "C",
+        "airline": "Аэрофлот",
+        "status": "Прибыл"
+    },
+    {
+        "key": 3,
+        "number": "6789",
+        "timeOfDeparture":"00:25",
+        "flight": "Владивосток",
+        "terminal": "D",
+        "airline": "Авиабаза",
+        "status": "Рейс задержан"
+    },
+    {
+        "key": 4,
+        "number": "345",
+        "timeOfDeparture":"00:35",
+        "flight": "Сочи",
+        "terminal": "D",
+        "airline": "Авиастар-ТУ",
+        "status": "Прибыл в Сочи"
+    },
+    {
+        "key": 5,
+        "number": "8568",
+        "timeOfDeparture":"01:35",
+        "flight": "Челябинск",
+        "terminal": "A",
+        "airline": "Аэрофлот",
+        "status": "Прибыл в Челябинск"
+    },
+    {
+        "key": 6,
+        "number": "357",
+        "timeOfDeparture":"01:55",
+        "flight": "Нальчик",
+        "terminal": "D",
+        "airline": "Глобус",
+        "status": "Прибыл в Нальчик"
+    },
+    {
+        "key": 7,
+        "number": "945",
+        "timeOfDeparture":"02:05",
+        "flight": "Санкт-Петербург",
+        "terminal": "B",
+        "airline": "Вектор",
+        "status": "Прибыл в Санкт-Петербург"
+    },
+    {
+        "key": 8,
+        "number": "986",
+        "timeOfDeparture":"02:20",
+        "flight": "Ростов-на-Дону",
+        "terminal": "C",
+        "airline": "Агат",
+        "status": "Прибыл в Ростов-на-Дону"
+    },
+    {
+        "key": 9,
+        "number": "8489",
+        "timeOfDeparture":"02:40",
+        "flight": "Краснодар",
+        "terminal": "D",
+        "airline": "Баркол",
+        "status": "Прибыл в Краснодар"
+    },
+    {
+        "key": 10,
+        "number": "4596",
+        "timeOfDeparture":"03:45",
+        "flight": "Тюмень",
+        "terminal": "A",
+        "airline": "Аэрофлот",
+        "status": "Прибыл"
+    },
+    {
+        "key": 11,
+        "number": "0467",
+        "timeOfDeparture":"05:00",
+        "flight": "Прага",
+        "terminal": "C",
+        "airline": "Авиастар-ТУ",
+        "status": "Прибыл в Прагу"
+    },
+    {
+        "key": 12,
+        "number": "6363",
+        "timeOfDeparture":"13:25",
+        "flight": "Пермь",
+        "terminal": "A",
+        "airline": "Аэрофлот",
+        "status": "Прибыл в Пермь"
+    },
+    {
+        "key": 13,
+        "number": "8754",
+        "timeOfDeparture":"14:40",
+        "flight": "Уфа",
+        "terminal": "B",
+        "airline": "Вектор",
+        "status": "Прибыл в Уфу"
+    },
+    {
+        "key": 14,
+        "number": "477",
+        "timeOfDeparture":"16:35",
+        "flight": "Самара",
+        "terminal": "D",
+        "airline": "Аэрофлот",
+        "status": "Прибыл"
+    },
+    {
+        "key": 15,
+        "number": "9446",
+        "timeOfDeparture":"17:00",
+        "flight": "Рим",
+        "terminal": "C",
+        "airline": "Аэрофлот",
+        "status": "В полете"
+    },
+    {
+        "key": 16,
+        "number": "756",
+        "timeOfDeparture":"17:05",
+        "flight": "Нью-Йорк",
+        "terminal": "A",
+        "airline": "Вектор",
+        "status": "Рейс задержан"
+    },
+    {
+        "key": 17,
+        "number": "2262",
+        "timeOfDeparture":"18:50",
+        "flight": "Волгоград",
+        "terminal": "B",
+        "airline": "Агат",
+        "status": "В полете"
+    },
+    {
+        "key": 18,
+        "number": "0033",
+        "timeOfDeparture":"19:20",
+        "flight": "Амстердам",
+        "terminal": "D",
+        "airline": "Глобус",
+        "status": "В полете"
+    },
+    {
+        "key": 19,
+        "number": "737",
+        "timeOfDeparture":"19:35",
+        "flight": "Анапа",
+        "terminal": "A",
+        "airline": "Агат",
+        "status": "Рейс задержан"
+    },
+    {
+        "key": 20,
+        "number": "8211",
+        "timeOfDeparture":"20:35",
+        "flight": "Магас",
+        "terminal": "A",
+        "airline": "Глобус",
+        "status": "В полете"
+    }
+]
+
+
